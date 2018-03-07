@@ -10,10 +10,15 @@ body {
 }
 
 img {
-  width:450px;
+  width:400px;
   display:block;
   margin:auto;
   padding-top:50px;
+}
+
+#banner {
+  width:1000px;
+  min-width: 500px;
 }
 
 #container {
@@ -74,9 +79,9 @@ img {
 
 #button {
   padding:30px;
-  font-size:40px;
+  font-size:35px;
   margin:auto;
-  width:450px;
+  width:400px;
   text-align:center;
   color:white;
   background-color:#009f4e;
